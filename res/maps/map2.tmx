@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="10" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="block_tile" tilewidth="64" tileheight="64">
+  <image source="block_tile.jpg" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="2" name="pass_tile" tilewidth="64" tileheight="64">
+  <image source="pass_tile.jpg" width="64" height="64"/>
+ </tileset>
+ <layer name="块层 1" width="15" height="10" visible="0" opacity="0.32">
+  <data encoding="base64" compression="zlib">
+   eJxjYmBgYCITkwuQ9ZNqHzobRjOSYS8yjU0dMfbiCw+Yu5jQ2MQAYsKAlLAiB5CbLkAYAMkMAKo=
+  </data>
+ </layer>
+ <objectgroup name="block" width="15" height="10">
+  <object gid="2" x="0" y="64"/>
+  <object gid="2" x="64" y="64"/>
+  <object gid="2" x="128" y="64"/>
+  <object gid="2" x="192" y="64"/>
+  <object gid="2" x="256" y="64"/>
+  <object gid="2" x="320" y="64"/>
+  <object gid="2" x="384" y="64"/>
+  <object gid="2" x="448" y="64"/>
+  <object gid="2" x="512" y="64"/>
+  <object gid="2" x="576" y="64"/>
+  <object gid="2" x="640" y="64"/>
+  <object gid="2" x="704" y="64"/>
+  <object gid="2" x="768" y="64"/>
+  <object gid="2" x="832" y="64"/>
+  <object gid="2" x="896" y="64"/>
+  <object gid="2" x="896" y="128"/>
+  <object gid="2" x="896" y="192"/>
+  <object gid="2" x="896" y="256"/>
+  <object gid="2" x="896" y="320"/>
+  <object gid="2" x="896" y="384"/>
+  <object gid="2" x="896" y="448"/>
+  <object gid="2" x="896" y="512"/>
+  <object gid="2" x="832" y="448"/>
+  <object gid="2" x="768" y="448"/>
+  <object gid="2" x="768" y="512"/>
+  <object gid="2" x="768" y="384"/>
+  <object gid="2" x="768" y="320"/>
+  <object gid="2" x="704" y="320"/>
+  <object gid="2" x="640" y="320"/>
+  <object gid="2" x="576" y="320"/>
+  <object gid="2" x="256" y="512"/>
+  <object gid="2" x="320" y="512"/>
+  <object gid="2" x="384" y="512"/>
+  <object gid="2" x="448" y="512"/>
+  <object gid="2" x="512" y="512"/>
+  <object gid="2" x="640" y="512"/>
+  <object gid="2" x="576" y="512"/>
+  <object gid="2" x="768" y="512"/>
+  <object gid="2" x="704" y="512"/>
+  <object gid="2" x="448" y="384"/>
+  <object gid="2" x="384" y="384"/>
+  <object gid="2" x="320" y="384"/>
+  <object gid="2" x="256" y="384"/>
+  <object gid="2" x="256" y="320"/>
+  <object gid="2" x="256" y="256"/>
+  <object gid="2" x="256" y="192"/>
+  <object gid="2" x="320" y="192"/>
+  <object gid="2" x="384" y="192"/>
+  <object gid="2" x="448" y="192"/>
+  <object gid="2" x="448" y="192"/>
+  <object gid="2" x="512" y="192"/>
+  <object gid="2" x="640" y="192"/>
+  <object gid="2" x="576" y="192"/>
+  <object gid="2" x="704" y="192"/>
+  <object gid="2" x="768" y="192"/>
+  <object gid="2" x="192" y="192"/>
+  <object gid="2" x="128" y="192"/>
+  <object gid="2" x="128" y="256"/>
+  <object gid="2" x="128" y="320"/>
+  <object gid="2" x="128" y="384"/>
+  <object gid="2" x="128" y="448"/>
+  <object gid="2" x="128" y="512"/>
+  <object gid="2" x="64" y="512"/>
+  <object gid="2" x="0" y="512"/>
+  <object gid="2" x="0" y="448"/>
+  <object gid="2" x="0" y="384"/>
+  <object gid="2" x="0" y="320"/>
+  <object gid="2" x="0" y="256"/>
+  <object gid="2" x="0" y="192"/>
+  <object gid="2" x="0" y="576"/>
+  <object gid="2" x="0" y="640"/>
+  <object gid="2" x="64" y="640"/>
+  <object gid="2" x="128" y="640"/>
+  <object gid="2" x="192" y="640"/>
+  <object gid="2" x="256" y="640"/>
+  <object gid="2" x="320" y="640"/>
+  <object gid="2" x="384" y="640"/>
+  <object gid="2" x="448" y="640"/>
+  <object gid="2" x="512" y="640"/>
+  <object gid="2" x="576" y="640"/>
+  <object gid="2" x="640" y="640"/>
+  <object gid="2" x="704" y="640"/>
+  <object gid="2" x="768" y="640"/>
+  <object gid="2" x="832" y="640"/>
+  <object gid="2" x="896" y="640"/>
+  <object gid="1" x="320" y="256"/>
+  <object gid="1" x="64" y="448"/>
+  <object gid="1" x="832" y="384"/>
+ </objectgroup>
+</map>
